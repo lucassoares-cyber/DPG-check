@@ -1,0 +1,9 @@
+{
+  "name": "DPG Check",
+  "description": "Plataforma de revisão inteligente de tarefas com IA para análise de texto, imagens, sites e redes sociais.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
